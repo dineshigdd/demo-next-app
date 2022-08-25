@@ -1,0 +1,11 @@
+{    
+
+    "dashboard":{ "username": "John", "email":"john@gmail.com" },
+
+    "products": [
+          { "id": 1, "title": "Laptops", "price": "900" , "description":"This is a Laptop" },
+          { "id": 2, "title": "Desktop", "price": "750" , "description":"This is a Desktop"}, 
+          { "id": 3, "title": "Tablet", "price": "505" , "description": "This is a tablet"}
+        ]
+    
+}
